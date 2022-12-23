@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Jerry", "Jerry\Jerry.fsproj", "{A599D1F1-A2F5-4BDC-A3F7-2098381637FE}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Telemetry", "Telemetry\Telemetry.fsproj", "{94D2DC81-2687-4B44-BFF5-AC68C71E11B9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Client", "Client\Client.fsproj", "{95071DD0-B0E1-4DBF-8F94-376047B30FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A599D1F1-A2F5-4BDC-A3F7-2098381637FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A599D1F1-A2F5-4BDC-A3F7-2098381637FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A599D1F1-A2F5-4BDC-A3F7-2098381637FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A599D1F1-A2F5-4BDC-A3F7-2098381637FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D2DC81-2687-4B44-BFF5-AC68C71E11B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D2DC81-2687-4B44-BFF5-AC68C71E11B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D2DC81-2687-4B44-BFF5-AC68C71E11B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D2DC81-2687-4B44-BFF5-AC68C71E11B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95071DD0-B0E1-4DBF-8F94-376047B30FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95071DD0-B0E1-4DBF-8F94-376047B30FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95071DD0-B0E1-4DBF-8F94-376047B30FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95071DD0-B0E1-4DBF-8F94-376047B30FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
